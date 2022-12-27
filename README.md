@@ -12,3 +12,5 @@
 Папка "pz_5": Урок 5. Ускоренная обработка данных: lambda, filter, map, zip, enumerate, list comprehension (Практическое задание)
 
 Папка "pz_6": Урок 6. Ускоренная обработка данных: lambda, filter, map, zip, enumerate, list comprehension. Продолжение (Практическое задание)
+
+Папка "pz_7": Урок 7. Python: от простого к практике (Практическое задание)
